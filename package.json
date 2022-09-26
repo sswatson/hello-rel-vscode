@@ -3,7 +3,7 @@
 	"displayName": "Hello Rel",
 	"description": "Tools for authoring self-paced lessons for the Hello Rel platform",
 	"publisher": "sswatson",
-	"logo": "assets/hello-rel.png",
+	"icon": "assets/hello-rel.png",
 	"version": "0.0.4",
 	"repository": {
 		"type": "git",
